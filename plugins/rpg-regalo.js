@@ -7,12 +7,12 @@ const handler = async (m, { conn }) => {
 
     // Una Verificación Ya Que No Funcionó La Mrd xD
     if (new Date().getTime() - global.db.data.users[m.sender].lastclaim < tenDaysInMillis) {
-        return conn.reply(m.chat, `*Ya Has Reclamado El Regalo De CrowBot💛, Vuelve En ${msToTime(time - new Date().getTime())}*`, m);
+        return conn.reply(m.chat, `*Ya Has Reclamado El Regalo De 𝐆𝐚𝐧𝐠 𝟑𝟑𝟑 𝐛𝐨𝐭 𝑶𝒇𝒊𝒄𝒊𝒂𝒍💛, Vuelve En ${msToTime(time - new Date().getTime())}*`, m);
     }
 
     const user = global.db.data.users[m.sender];
     
-    conn.sendMessage(m.chat, {text: `🎩 *@${m.sender.split('@')[0]} CrowBot Te Ha Regalado:*\n> 🌟 500 Estrellas\n> 💶 400 Experiencia\n> 🪙 200 CrowCoins`, mentions: [m.sender]}, {quoted: fkontak});
+    conn.sendMessage(m.chat, {text: `🎩 *@${m.sender.split('@')[0]} 𝐆𝐚𝐧𝐠 𝟑𝟑𝟑 𝐛𝐨𝐭 𝑶𝒇𝒊𝒄𝒊𝒂𝒍 Te Ha Regalado:*\n> 🌟 500 Estrellas\n> 💶 400 Experiencia\n> 🪙 200 GangCoins`, mentions: [m.sender]}, {quoted: fkontak});
 
     // Aquí La Moneda Crow Es Estrellas, Ustedes La Pueden Cambiar Por Los Datos De las monedas de sus bots pijes
     user.money += 200;
