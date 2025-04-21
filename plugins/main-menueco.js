@@ -27,7 +27,7 @@ let tags = {
 'rpg': 'MenuEconomia',
 }
 // let img = 'https://files.catbox.moe/w1ltfq.jpg'
-let img = './media/menus/Menu.jpg';
+let img = 'https://files.catbox.moe/vg93tf.jpg';
 
   try {
           // DEFAULT MENU
