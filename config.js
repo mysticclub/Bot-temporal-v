@@ -70,9 +70,9 @@ global.catalogo = fs.readFileSync('./media/catalogo.jpg')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 global.repobot = 'https://github.com/willzek/CrowBot-ST'
-global.grupo = 'https://chat.whatsapp.com/B7POPrlJiZf7UWHJKvzVkx'
-global.gteam = 'https://chat.whatsapp.com/EpkR7XS0hrMDYk89yw57HZ'
-global.gsupport = 'https://chat.whatsapp.com/K5GLB5CXp3iAl4XsDzav1W'
+global.grupo = 'https://chat.whatsapp.com/HRlw7s6AVUtH1vNoV2H1yt'
+global.gteam = 'https://chat.whatsapp.com/HRlw7s6AVUtH1vNoV2H1yt'
+global.gsupport = 'https://chat.whatsapp.com/FwFbVmcEThS6cUssRP9AjW'
 global.comu = 'https://chat.whatsapp.com/Bgfb6Ag13BDCvwzOtldlCm'
 global.channel = 'https://whatsapp.com/channel/0029Vb5g2DJ8F2pIV0CuB53V'
 global.insta = 'https://www.instagram.com/sxnti_legitt?igsh=ZGl5cW1senNxc3R0'
