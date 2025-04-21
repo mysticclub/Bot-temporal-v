@@ -25,7 +25,7 @@ let tags = {
 'grupo': 'Menu Para Admins',
 }
 //let img = 'https://files.catbox.moe/w3s79j.jpg'
-let img = './media/menus/Menu.jpg';
+let img = 'https://files.catbox.moe/vg93tf.jpg';
 
   try {
           // DEFAULT MENU
