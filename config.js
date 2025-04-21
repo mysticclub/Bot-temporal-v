@@ -73,7 +73,7 @@ global.repobot = 'https://github.com/willzek/CrowBot-ST'
 global.grupo = 'https://chat.whatsapp.com/HRlw7s6AVUtH1vNoV2H1yt'
 global.gteam = 'https://chat.whatsapp.com/HRlw7s6AVUtH1vNoV2H1yt'
 global.gsupport = 'https://chat.whatsapp.com/FwFbVmcEThS6cUssRP9AjW'
-global.comu = 'https://chat.whatsapp.com/Bgfb6Ag13BDCvwzOtldlCm'
+global.comu = 'https://chat.whatsapp.com/BgxhIhvpvo7AIqusurHZXc'
 global.channel = 'https://whatsapp.com/channel/0029Vb5g2DJ8F2pIV0CuB53V'
 global.insta = 'https://www.instagram.com/sxnti_legitt?igsh=ZGl5cW1senNxc3R0'
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
