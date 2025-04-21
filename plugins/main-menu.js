@@ -4,7 +4,7 @@ import fetch from 'node-fetch'
 import { xpRange } from '../lib/levelling.js'
 
 let tags = {
-  'crow': '👑「 *`MENUS CROWBOT`* 」👑',
+  'crow': '👑「 *`MENUS 𝐆𝐚𝐧𝐠 𝟑𝟑𝟑 𝐛𝐨𝐭 𝑶𝒇𝒊𝒄𝒊𝒂𝒍`* 」👑',
   'main': '「INFO」🍨',
   'buscador': '「BUSQUEDAS」🍨',
   'fun': '「JUEGOS」🍨',
