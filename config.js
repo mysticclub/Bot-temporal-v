@@ -75,7 +75,7 @@ global.gteam = 'https://chat.whatsapp.com/EpkR7XS0hrMDYk89yw57HZ'
 global.gsupport = 'https://chat.whatsapp.com/K5GLB5CXp3iAl4XsDzav1W'
 global.comu = 'https://chat.whatsapp.com/Bgfb6Ag13BDCvwzOtldlCm'
 global.channel = 'https://whatsapp.com/channel/0029Vb5g2DJ8F2pIV0CuB53V'
-global.insta = 'https://www.instagram.com/crowbot-wa'
+global.insta = 'https://www.instagram.com/sxnti_legitt?igsh=ZGl5cW1senNxc3R0'
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "543876577197-120363317332020195@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: '👑【✫༆ᴺᵉˣᵘˢ乂club숬✫】🎩', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
