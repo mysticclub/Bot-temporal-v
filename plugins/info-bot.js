@@ -37,16 +37,17 @@ Tenemos:
 •Bot Perzonalizado Plus o normal 
 •Bot Propio
 •Bot Para Grupo 
-> *Consulta Los Precios [🌠]*`, m, rcanal, )
+> *Consulta Los Precios [🌠]*
+*al wa.me/51920227615*`, m, rcanal, )
 }
 
 if (/^Bot en decadencia/i.test(m.text)) {
 conn.reply(m.chat, `*Tu Mamá we 🍆🥵*`, m, rcanal, )
 }
 
-if (/^Crow$/i.test(m.text)) {
-conn.reply(m.chat, `*Hola Eres Fan De* *CrowBot o Brawl Stars*
-*Entonces Sigue El Canal Oficial!*\n> https://whatsapp.com/channel/0029Vb1AFK6HbFV9kaB3b13W\n\n*O Puedes Ir Al Sitio Web Oficial De CrowBot!*\n> https://crowbot-web.vercel.app/\n\n*Gracias por utilizar CrowBot-MF* `, m, rcanal, )
+if (/^Gang333$/i.test(m.text)) {
+conn.reply(m.chat, `*Hola Eres Fan De* *𝐆𝐚𝐧𝐠 𝟑𝟑𝟑 𝐛𝐨𝐭 𝑶𝒇𝒊𝒄𝒊𝒂𝒍*
+*Entonces Sigue El Canal Oficial!*\n> https://whatsapp.com/channel/0029VbB01hcIXnlzuwepWh2X\n\n\n\n*Gracias por utilizar 𝐛𝐨𝐭 𝐆𝐚𝐧𝐠 𝟑𝟑𝟑* `, m, rcanal, )
 }
 
 if (/^reglasgp|.reglasgp$/i.test(m.text)) {
@@ -74,7 +75,7 @@ conn.reply(m.chat, `**R꙰EGLAS DEL GRUP❍ꪜ*
 █║║██║║██║║██║║██║║█
 ✧･ﾟ: *✧･Atte.
 
-☆ ፝͜★ৡ͜͡✞ *CrowBot* ➵͡☠️⃪̸ੵ᷒ᰰ↱
+☆ ፝͜★ৡ͜͡✞ *𝐛𝐨𝐭 𝐆𝐚𝐧𝐠 𝟑𝟑𝟑* ➵͡☠️⃪̸ੵ᷒ᰰ↱
 
 ✧･ﾟ: *✧･ﾟ:*✧･ﾟ: *✧･ﾟ:*✧･ﾟ: *✧･ﾟ:*`, m, rcanal, )
 }
