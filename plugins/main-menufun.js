@@ -25,7 +25,7 @@ let tags = {
 'fun': 'Diversion',
 }
 // let img = 'https://files.catbox.moe/w3s79j.jpg'
-let img = './media/menus/Menu.jpg';
+let img = 'https://files.catbox.moe/sc1yza.jpg';
 
   try {
           // DEFAULT MENU
