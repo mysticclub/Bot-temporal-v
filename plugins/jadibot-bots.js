@@ -1,4 +1,4 @@
-//import ws from 'ws'
+import ws from 'ws'
 
 let handler = async (m, { conn }) => {
    let uniqueUsers = new Map()
@@ -19,7 +19,7 @@ let handler = async (m, { conn }) => {
    await conn.reply(m.chat, txt, m, rcanal)
 }
 
-handler.command = ['listjadibot', 'bots']
+//handler.command = ['listjadibot', 'bots']
 handler.help = ['bots']
 handler.tags = ['serbot']
 export default handler
